@@ -1,8 +1,8 @@
 # Step
 1. Generate user Folder
 2. Generate `go.mod`
-    1. `$ cd {project folder}/user`
-    2. `$ go mod init example.com/m/user`
+    1. `$ cd {project folder}`
+    2. `$ go mod init`
 3. Generate `user/model.go` and `user/user_create.go`
 4. Generate `go.sum`
     1. `$ cd {project folder}/user`
