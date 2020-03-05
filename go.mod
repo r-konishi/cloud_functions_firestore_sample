@@ -1,4 +1,4 @@
-module github.com/r-konishi/cloud_functions_firestore_sample/user
+module github.com/r-konishi/cloud_functions_firestore_sample
 
 go 1.13
 
